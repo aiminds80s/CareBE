@@ -1,5 +1,6 @@
 let tables = {
-    users: 'USERSLIST'
+    users: 'USERS',
+    records: 'RECORDS'
 }
 
-module.exports = {tables};
+module.exports = { tables };
